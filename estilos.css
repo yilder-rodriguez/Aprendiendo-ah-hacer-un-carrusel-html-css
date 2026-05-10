@@ -4,23 +4,7 @@
     overflow: scroll;
 }
 
-.elementoamarillo{   /* contenedor hijo*/
-    flex: 1 0 auto;
-    margin: 0 50px;
-    background: yellow;
-    width: 500px;
-    height: 500px;
-}
-
-.elementoazul{   /* contenedor hijo*/
-    flex: 1 0 auto;
-    margin: 0 50px;
-    background: blue;
-    width: 500px;
-    height: 500px;
-}
-
-.elementorojo{   /* contenedor hijo*/
+.elemento{   /* contenedor hijo*/
     flex: 1 0 auto;
     margin: 0 50px;
     background: red;
@@ -28,11 +12,5 @@
     height: 500px;
 }
 
-.elementonegro{   /* contenedor hijo*/
-    flex: 1 0 auto;
-    margin: 0 50px;
-    background: black;
-    width: 500px;
-    height: 500px;
-}
+
 
